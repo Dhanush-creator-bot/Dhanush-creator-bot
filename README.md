@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Dhanush-creator-bot
-- 👀 I’m interested in robotics and i need to study A.I
-- 🌱 I’m currently learning in 10th std
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via github
+- 👀 Wanna skill up.
+- 🌱 I’m currently in 12th.
 
 
 
